@@ -607,7 +607,7 @@ legend {
 }
 .portfolio_wrap .port-img .imges-wrap {
     width: 90%;
-    height: 90%;
+    height: 50%;
     border-radius: 30px;
     /* box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px; */
     padding: 0 70px;
@@ -622,8 +622,12 @@ legend {
     background-position: top;
     transition: all 3s;
 }
-.portfolio_wrap .port-img .imges-wrap .monami {
-    background: url('../../images/portfolio/portfolio1.jpg') no-repeat 0 0;
+.portfolio_wrap .port-img .imges-wrap .monami1 {
+    background: url('../../images/portfolio/patagonia.png') no-repeat 0 0;
+    background-size: cover;
+}
+.portfolio_wrap .port-img .imges-wrap .monami2 {
+    background: url('../../images/portfolio/tamburins.png') no-repeat 0 0;
     background-size: cover;
 }
 
