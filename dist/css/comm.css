@@ -764,7 +764,8 @@ body {
     position: relative;
     width: 7vw;
     height: 50px;
-    color: #fff;
+    color: #2cd7f0;
+    font-weight: 500;
     border: 1px solid #fff;
 }
 .pfb2 .but:hover {
