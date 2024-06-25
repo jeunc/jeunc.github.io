@@ -273,6 +273,9 @@ legend {
     content: '';
 }
 
+body {
+    overflow-x: hidden;
+}
 .wrap {
     background: #f4f4f4;
     font-family: 'Pretendard';
