@@ -510,16 +510,22 @@ body {
 .sec2 .about-txt-wrap .abtxt {
     margin-bottom: 25px;
 }
-.sec2 .about-txt-wrap .abtxt .about-me {
+.sec2 .about-txt-wrap .abtxt .about-left {
     font-weight: 700;
     font-size: 30px;
-    color: #25216d;
+    color: #a0937d;
     margin-bottom: 10px;
 }
-.sec2 .about-txt-wrap .abtxt .about-intro {
+.sec2 .about-txt-wrap .abtxt .about-right {
     line-height: 35px;
     color: #ffffff;
 }
+/* .abtxt .about-me .about-intro span {
+        font-weight: 700;
+    font-size: 30px;
+    color: #a0937d;
+    margin-bottom: 10px;
+} */
 .sec2 .about_tab-wrap {
     display: flex;
     justify-content: space-between;
