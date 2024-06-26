@@ -716,8 +716,8 @@ body {
 }
 .port-texts .text-info .page-info p {
     width: 90%;
-    opacity: 0.5;
-    color: #fff;
+    opacity: 1;
+    color: #ffffff;
 }
 
 .pfb1 {
@@ -781,7 +781,7 @@ body {
     height: 50px;
     color: #9acd32;
     font-weight: 500;
-    border: 1px solid #fff;
+    border: 1px solid #9acd32;
 }
 .pfb2 .but:hover {
     text-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
