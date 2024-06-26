@@ -520,6 +520,9 @@ body {
     line-height: 35px;
     color: #ffffff;
 }
+.about-right h3 {
+    color: #2cd7f0;
+}
 /* .abtxt .about-me .about-intro span {
         font-weight: 700;
     font-size: 30px;
