@@ -484,6 +484,14 @@ body {
     align-items: center;
     justify-content: space-evenly;
 }
+
+.sec2 .about-wrap span {
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: #fff;
+}
+
 .sec2 .bubble-wrap {
     position: relative;
     width: 40%;
@@ -494,6 +502,9 @@ body {
     transform: translate(-50%, -50%);
     width: 600px;
 }
+/* .sec2 .bubble-wrap .blob-txt {
+    color: #fff;
+} */
 .sec2 .bubble-wrap .blob-pic {
     top: 54%;
     left: 50%;
@@ -510,18 +521,13 @@ body {
 .sec2 .about-txt-wrap .abtxt {
     margin-bottom: 25px;
 }
-.sec2 .about-txt-wrap .abtxt .about-left {
-    font-weight: 700;
-    font-size: 30px;
-    color: #a0937d;
-    margin-bottom: 10px;
-}
+
 .sec2 .about-txt-wrap .abtxt .about-right {
     line-height: 35px;
     color: #ffffff;
 }
 .about-right h3 {
-    color: #2cd7f0;
+    color: #9acd32;
 }
 /* .abtxt .about-me .about-intro span {
         font-weight: 700;
@@ -773,7 +779,7 @@ body {
     position: relative;
     width: 7vw;
     height: 50px;
-    color: #2cd7f0;
+    color: #9acd32;
     font-weight: 500;
     border: 1px solid #fff;
 }
