@@ -389,14 +389,14 @@ body {
 .sec1 .square {
     font-family: 'SpoqaHanSansNeo';
     font-size: 100px;
-    font-weight: 900;
+    font-weight: 700;
     animation-duration: 1s;
     cursor: default;
     transition: all 0.3s;
     color: #ffffff;
 }
 .sec1 .square:hover {
-    color: #007aff;
+    color: #76b8ff;
 }
 @keyframes rubberBand {
     0% {
@@ -527,7 +527,7 @@ body {
     color: #ffffff;
 }
 .about-right h3 {
-    color: #9acd32;
+    color: #ffffff;
 }
 /* .abtxt .about-me .about-intro span {
         font-weight: 700;
